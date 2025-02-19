@@ -6,15 +6,14 @@ detailed size recommendations, ensuring a perfect fit every time.
 ## Product Requirements
 
 ### Product Title  
-**FitCheckr**  
+FitCheckr 
 
 ### Target Release  
 MVP launch planned for **Q3 2025**  
 
 ### Product Managers  
 - **Goodness Akoma**  
-- **Khalifa**  
-- Names of other team members  
+- **Khalifa Oluwa**   
 
 ### Engineering Lead  
 - **[Team Lead and Assistant Team Lead]**  
