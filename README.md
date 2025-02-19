@@ -12,7 +12,7 @@ FitCheckr
 MVP launch planned for **Q3 2025**  
 
 ### Product Managers  
-Click to view! [https://github.com/GoodnessJames/FitCheckr/blob/master/product_managers] 
+[Click to view!] (https://github.com/GoodnessJames/FitCheckr/blob/master/product_managers)
 
 ### Engineering Lead  
 - **[Team Lead and Assistant Team Lead]**  
