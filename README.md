@@ -56,14 +56,14 @@ accurate and personalized size recommendations through the use of **avatars** an
 ## Use Cases  
 
 - **As an online shopper**, I want to create a **personalized avatar** using my measurements so I can see how clothes
-- will fit before making a purchase.  
+  will fit before making a purchase.  
 - **As an online shopper**, I want to receive **size recommendations** tailored to my body measurements so I can confidently
-- choose the right size when shopping online.  
+  choose the right size when shopping online.  
 - **As an online shopper**, I want to **save my measurement profile**, so I don’t have to re-enter my details every time I shop.  
 - **As an online shopper**, I want **FitCheckr** to provide **consistent size guidance across brands**, so I don’t have to guess
-- my size when shopping from a new store.  
+  my size when shopping from a new store.  
 - **As an online retailer**, I want to integrate **FitCheckr** into my platform so my customers can shop with confidence and
-- reduce product returns.  
+  reduce product returns.  
 
 ---
 
