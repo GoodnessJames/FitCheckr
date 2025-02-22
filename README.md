@@ -1,4 +1,4 @@
-# FitCheckr 👗 - Check your fit, anywhere you shop!
+# FitCheckr 👗 - Check your fit, elevate your style!
 FitCheckr is an online shopping plugin designed to help customers confidently purchase clothing by providing
 detailed size recommendations, ensuring a perfect fit every time. 
 
