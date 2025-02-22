@@ -15,7 +15,8 @@ MVP launch planned for **Q3 2025**
 [Click to view!](https://github.com/GoodnessJames/FitCheckr/blob/master/product_managers)
 
 ### Engineering Lead  
-- **[Team Lead and Assistant Team Lead]**  
+- Alamutu Olatoyosi Abiodun
+- Godwon Obisike
 
 ### Designer  
 - **TBD**  
@@ -80,17 +81,17 @@ We help **online shoppers confidently purchase clothing** by providing:
 
 ## Target Personas  
 
-### **Primary Persona: Online Shopper**  
-- **Profile:** A young online shopper frequently purchasing clothes but struggling with inconsistent sizing.  
-- **Needs:** Accurate size recommendations, confidence in fit, and a user-friendly interface.  
-- **Pain Points:** Frustration with returns, overwhelming sizing charts, and hesitation to buy from new brands.  
-- **Benefit from FitCheckr:** Can create an avatar, receive reliable recommendations, and shop with confidence.  
-
-### **Secondary Persona: E-commerce Store Owner**  
+### **Primary Persona: E-commerce Store Owner**
 - **Profile:** Runs an online clothing store focused on **customer satisfaction** and **reducing returns**.  
 - **Needs:** A simple tool that integrates with their platform to improve trust and lower return rates.  
 - **Pain Points:** High return rates, unhappy customers, and difficulty retaining repeat shoppers.  
-- **Benefit from FitCheckr:** Offers customers a **better shopping experience**, leading to **higher sales** and **fewer returns**.  
+- **Benefit from FitCheckr:** Offers customers a **better shopping experience**, leading to **higher sales** and **fewer returns**.
+
+### **Secondary Persona: Online Shopper**  
+- **Profile:** An online shopper frequently purchasing clothes but struggling with inconsistent sizing.  
+- **Needs:** Accurate size recommendations, confidence in fit, and a user-friendly interface.  
+- **Pain Points:** Frustration with returns, overwhelming sizing charts, and hesitation to buy from new brands.  
+- **Benefit from FitCheckr:** Can create an avatar, receive reliable recommendations, and shop confidently.  
 
 ---
 
