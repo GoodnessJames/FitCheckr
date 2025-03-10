@@ -6,7 +6,10 @@ detailed size recommendations, ensuring a perfect fit every time.
 ## Product Requirements
 
 ### Product Title  
-FitCheckr 
+FitCheckr
+
+### Product Title  
+[Pitch deck](https://www.canva.com/design/DAGff9O0TLM/CwvkJPlg-9Nku1hdNd_Ryw/edit?utm_content=DAGff9O0TLM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Target Release  
 MVP launch planned for **Q3 2025**  
