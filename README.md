@@ -8,7 +8,7 @@ detailed size recommendations, ensuring a perfect fit every time.
 ### Product Title  
 FitCheckr
 
-### Product Title  
+### Product Pitch  
 [Pitch deck](https://www.canva.com/design/DAGff9O0TLM/CwvkJPlg-9Nku1hdNd_Ryw/edit?utm_content=DAGff9O0TLM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Target Release  
