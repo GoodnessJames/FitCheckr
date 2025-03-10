@@ -19,7 +19,7 @@ MVP launch planned for **Q3 2025**
 - Godwon Obisike
 
 ### Designer  
-- **TBD**  
+- Omoniyi Taiwo Samson
 
 ### Document Status/Version  
 - **Version 1.0 – Draft PRD**  
