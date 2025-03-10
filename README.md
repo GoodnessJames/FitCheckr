@@ -11,6 +11,9 @@ FitCheckr
 ### Product Pitch  
 [Pitch deck](https://www.canva.com/design/DAGff9O0TLM/CwvkJPlg-9Nku1hdNd_Ryw/edit?utm_content=DAGff9O0TLM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+### Product Prototype
+[Link to design](https://www.figma.com/proto/CzhKYc10Y5nz9BniZwq1eY/Group-3---FitCheckr-Prototype?node-id=0-1&t=7mClt5I3IKGeIO4a-1)
+
 ### Target Release  
 MVP launch planned for **Q3 2025**  
 
