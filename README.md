@@ -9,7 +9,7 @@ detailed size recommendations, ensuring a perfect fit every time.
 FitCheckr
 
 ### Product Pitch  
-[Pitch deck](https://www.canva.com/design/DAGff9O0TLM/CwvkJPlg-9Nku1hdNd_Ryw/edit?utm_content=DAGff9O0TLM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Pitch deck](https://www.canva.com/design/DAGff9O0TLM/R9pBwXOH_ZDTdPmdCZgUFA/view?utm_content=DAGff9O0TLM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he291930cee)
 
 ### Product Prototype
 [Link to design](https://www.figma.com/proto/CzhKYc10Y5nz9BniZwq1eY/Group-3---FitCheckr-Prototype?node-id=0-1&t=7mClt5I3IKGeIO4a-1)
@@ -18,7 +18,7 @@ FitCheckr
 MVP launch planned for **Q3 2025**  
 
 ### Product Managers  
-[Click to view!](https://github.com/GoodnessJames/FitCheckr/blob/master/product_managers)
+[Click to view](https://github.com/GoodnessJames/FitCheckr/blob/master/product_managers)
 
 ### Engineering Lead  
 - Alamutu Olatoyosi Abiodun
@@ -28,10 +28,10 @@ MVP launch planned for **Q3 2025**
 - Omoniyi Taiwo Samson
 
 ### Document Status/Version  
-- **Version 1.0 – Draft PRD**  
+- **First draft - Version 1.0**  
 
-### Created  
-- **18th February, 2025**  
+### Date  
+- Crreated by Goodness Akoma on **18th February, 2025**  
 
 ---
 
