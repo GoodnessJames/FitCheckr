@@ -31,7 +31,7 @@ MVP launch planned for **Q3 2025**
 - **First draft - Version 1.0**  
 
 ### Date  
-- Crreated by Goodness Akoma on **18th February, 2025**  
+- Documented by Goodness Akoma on **18th February, 2025**  
 
 ---
 
